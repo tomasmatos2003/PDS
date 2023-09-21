@@ -1,0 +1,11 @@
+A função estática getInstance() chama a função createCalendar() que cria uma instância de um
+tipo específico de objeto Calendar consoante o locale e timezone do sistema ou estes podem ser
+passados como argumentos pelo utilizador, e retorna essa instância. Também se verifica que
+os construtores são "protected", algo que é necessário para o uso de um padrão factory.
+Por fim, podemos concluir que getInstance() é uma fábrica de instâncias de Calendar, logo
+a classe Calendar usa o padrão "factory".
+
+    
+
+
+

@@ -1,0 +1,7 @@
+phone;  water
+belt    shower
+perfum
+wallet
+paper
+comb
+

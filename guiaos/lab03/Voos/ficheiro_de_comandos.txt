@@ -1,0 +1,10 @@
+I flight1.txt
+I flight2.txt
+M TP1920
+F TP123 5x3
+F TP321 3x1 6x3
+R TP1930 T 3
+M TP1930
+C TP1920:3
+M TP1920
+Q

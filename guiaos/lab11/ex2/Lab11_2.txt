@@ -1,0 +1,12 @@
+java.io.InputStream:
+    Utiliza o padrão Template Method no método read(byte[] b),pois fornece uma padrão para ler um array de bytes, chamando o método read(byte[] b, int off, int len).
+    Por sua vez, é abstrato e precisa de ser implementado pelas subclasses concretas. Dessa forma, as subclasses podem personalizar a forma como os bytes são lidos.
+
+java.io.OutputStream:
+    Usa o padrão Template Method para permitir que as subclasses personalizem certos aspectos do comportamento.
+    Fornecendo o metodo abstrato write(byte[] b, int off, int len), podendo personalizar a forma como os bytes são guardados.
+
+java.util.AbstractList:
+    Método get(int index), representa a obtenção de um elemento da lista com base no seu índice.
+    Método size(), utiliza o método abstrato int size() para obter o tamanho específico de uma lista.
+    Método add(E element), é responsável por adicionar um elemento à lista.  

@@ -1,0 +1,26 @@
+attacks         7     8,2     RightUp
+workable        8     10,10   Up    
+stems           5     6,3     Right 
+stocks          6     1,2     RightDown
+overpriced      10    9,10    Left  
+carol           5     5,11    Down  
+elastic         7     3,3     Down  
+balmy           5     2,1     Down  
+bongo           5     1,4     RightDown
+estate          6     6,9     Up    
+esteem          6     1,6     Right 
+forgiving       9     11,1    Right 
+shoot           5     6,2     Up    
+southern        8     4,8     Down  
+through         7     10,7    Left  
+
+* S * B * E S T E E M 
+B T T * O * * S T * * 
+A O E O * N K * A E * 
+L O L * C C G S T L * 
+M H A * A K * O S B C 
+Y S S T E M S U E A A 
+* * T * * * * T * K R 
+* A I * * * * H * R O 
+D E C I R P R E V O L 
+H G U O R H T R * W * 

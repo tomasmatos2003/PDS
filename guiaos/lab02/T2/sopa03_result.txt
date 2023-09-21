@@ -1,0 +1,21 @@
+swift           5      4,6      Right
+kotlin          6      2,9      Left
+pepper          6      8,10     Left
+dead            4      10,11    Left
+complete        8      8,3      Up
+tread           5      5,11     Down
+overall         7      1,5      Right
+diplomat        8      11,8     Left
+politics        8      9,12     Up
+. . E . O V E R A L L .
+. . T N I L T O K . . S
+. . E . . . . . . . . C
+. . L . . S W I F T . I
+. . P . . . . . . . T T
+. . M . . . . . . . R I
+. . O . . . . . . . E L
+. . C . R E P P E P A O
+. . . . . . . . . . D P
+. . . . . . . D A E D .
+T A M O L P I D . . . .
+. . . . . . . . . . . .

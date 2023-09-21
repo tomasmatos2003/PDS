@@ -1,0 +1,21 @@
+cherry          6      5,8      Left
+grapes          6      8,1      Up
+tomato          6      2,6      DownRight
+kiwi            4      8,5      DownRight
+lemon           5      11,4     Up
+orange          6      8,12     Up
+apple           5      9,12     Left
+peach           5      7,10     Left
+apricot         7      1,8      Left
+. T O C I R P A . . . .
+. . . . . T . . . . . .
+S . . . . . O . . . . E
+E . . . . . . M . . . G
+P . Y R R E H C A . . N
+A . . . . . . . . T . A
+R . . N . H C A E P O R
+G . . O K . . . . . . O
+. . . M . I . E L P P A
+. . . E . . W . . . . .
+. . . L . . . I . . . .
+. . . . . . . . . . . .

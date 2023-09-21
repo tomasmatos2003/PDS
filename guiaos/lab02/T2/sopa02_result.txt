@@ -1,0 +1,21 @@
+matrix          6      5,6      Right
+compound        8      12,12    Left
+basket          6      12,3     Up
+club            4      6,7      Left
+order           5      10,10    Up
+java            4      2,3      Down
+ruby            4      8,9      Left
+python          6      1,12     Down
+america         7      6,1      Down
+. . . . . . . . . . . P
+. . J . . . . . . . . Y
+. . A . . . . . . . . T
+. . V . . . . . . . . H
+. . A . . M A T R I X O
+A . . B U L C . . R . N
+M . T . . . . . . E . .
+E . E . . Y B U R D . .
+R . K . . . . . . R . .
+I . S . . . . . . O . .
+C . A . . . . . . . . .
+A . B . D N U O P M O C

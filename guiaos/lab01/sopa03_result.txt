@@ -1,0 +1,15 @@
+baron           5     6,6     Left   
+cell            4     5,6     LeftUp 
+flex            4     2,5     LeftDown 
+maker           5     7,6     LeftUp 
+ooze            4     1,4     Left   
+ruts            4     7,4     Left   
+token           5     7,2     RightUp 
+
+E Z O O * * * 
+* * L * F * * 
+* R * L * N * 
+* * E * E * * 
+* X * K * C * 
+* N O R A B * 
+S T U R * M *
